@@ -6,3 +6,10 @@ console.log(a-b);
 console.log(a*b);
 console.log(a/b);
 console.log(a%b);
+
+
+// assignment operators
+a+=2;
+a-=2;
+a*=2;
+a/=2;
