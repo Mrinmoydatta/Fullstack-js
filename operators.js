@@ -13,3 +13,9 @@ a+=2;
 a-=2;
 a*=2;
 a/=2;
+
+// relational operator
+console.log(a>b);
+console.log(a>=b);
+console.log(a<b);
+console.log(a<=b);
