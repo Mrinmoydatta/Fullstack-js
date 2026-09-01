@@ -11,3 +11,14 @@ if(age>18){
 }else{
     console.log("not eligible to vote");
 }
+
+
+
+// if-else if statement
+if(age<20){
+    console.log("You are a teenager.");
+}else if(age>=20 && age<30){
+    console.log("You are in your twenties.");
+}else{
+    console.log("You are older than 30.");
+}
