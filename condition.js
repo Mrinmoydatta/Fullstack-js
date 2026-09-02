@@ -22,3 +22,7 @@ if(age<20){
 }else{
     console.log("You are older than 30.");
 }
+
+
+//ternary operator
+(age>18)?console.log("eligible to vote"):console.log("not eligible to vote");
