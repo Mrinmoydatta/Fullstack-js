@@ -26,3 +26,23 @@ if(age<20){
 
 //ternary operator
 (age>18)?console.log("eligible to vote"):console.log("not eligible to vote");
+
+
+
+
+// switch case
+let color="red";
+
+switch(color){
+    case "red":
+        console.log("Color is red");
+        break;
+    case "blue":
+        console.log("Color is blue");
+        break;
+    case "green":
+        console.log("Color is green");
+        break;
+    default:
+        console.log("Color is not red, blue or green");
+}   
