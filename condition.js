@@ -46,3 +46,6 @@ switch(color){
     default:
         console.log("Color is not red, blue or green");
 }   
+
+
+
