@@ -11,3 +11,11 @@ while(j < 5) {
     j++;
 }   
 
+
+
+//do while loop
+let k = 0;
+do {
+    console.log("The number is " + k);
+    k++;
+} while(k < 5);
