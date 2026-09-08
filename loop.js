@@ -19,3 +19,12 @@ do {
     console.log("The number is " + k);
     k++;
 } while(k < 5);
+
+
+
+
+// for each loop
+let numbers = [1, 2, 3, 4, 5];
+numbers.forEach(function(number) {
+    console.log("The number is " + number);
+});
