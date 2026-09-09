@@ -28,3 +28,11 @@ let numbers = [1, 2, 3, 4, 5];
 numbers.forEach(function(number) {
     console.log("The number is " + number);
 });
+
+
+
+// for of loop
+let fruits = ["apple", "banana", "cherry"];
+for (let fruit of fruits) {
+    console.log("The fruit is " + fruit);
+}
