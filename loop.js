@@ -32,7 +32,7 @@ numbers.forEach(function(number) {
 
 
 // for of loop
-let fruits = ["apple", "banana", "cherry", "mango"];
+let fruits = ["apple", "banana", "cherry", "mango","orange"];
 for (let fruit of fruits) {
     console.log("The fruit is " + fruit);
 }
