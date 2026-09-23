@@ -13,8 +13,11 @@ function sub(a,b){
     console.log(a-b);
 }
 
+mul = (a,b) => {
+    console.log(a*b);
+}
 fun();
 add(5,10);
 sub(10,5);
-
+mul(5,10);
 
