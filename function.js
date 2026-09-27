@@ -21,13 +21,19 @@ div = (a,b) => {
     console.log(a/b);
 }
 
+rem = (a,b) => {
+    console.log(a%b);
+}
+
 pow = (a,b) => {
     console.log(Math.pow(a,b));
 }
+
 
 fun();
 add(5,10);
 sub(10,5);
 mul(5,10);
 div(10,5);
+rem(10,5);
 pow(5,2);
