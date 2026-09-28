@@ -29,6 +29,9 @@ pow = (a,b) => {
     console.log(Math.pow(a,b));
 }
 
+sqrt = (a) => {
+    console.log(Math.sqrt(a));
+}
 
 fun();
 add(5,10);
@@ -37,3 +40,4 @@ mul(5,10);
 div(10,5);
 rem(10,5);
 pow(5,2);
+sqrt(25);
