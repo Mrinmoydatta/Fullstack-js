@@ -33,6 +33,10 @@ sqrt = (a) => {
     console.log(Math.sqrt(a));
 }
 
+cube = (a) => {
+    console.log(Math.pow(a,3));
+}
+
 fun();
 add(5,10);
 sub(10,5);
@@ -41,3 +45,4 @@ div(10,5);
 rem(10,5);
 pow(5,2);
 sqrt(25);
+cube(5);
